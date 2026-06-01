@@ -3,4 +3,5 @@ package com.example.demo;
 public class A {
 int a=10;
 int b=100;
+int c=9;
 }
